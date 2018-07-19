@@ -1,0 +1,1287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mega Main Menu\n"
+"POT-Creation-Date: 2018-03-31 22:27-0700\n"
+"PO-Revision-Date: 2018-03-31 22:31-0700\n"
+"Last-Translator: \n"
+"Language-Team: http://megamain.com/\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:12
+msgid "Mega Main Options"
+msgstr "Настройки Mega Main"
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:18
+msgid "Post Icon"
+msgstr "Иконка этой страницы"
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:19
+msgid ""
+"Select icon for this post, which will be displayed in the \"Post Grid "
+"Dropdown Menu\""
+msgstr ""
+"Выберите иконку для этой страницы, которая будет отображаться в выпадающем "
+"меню \"Список постов\""
+
+#: extensions/array_theme_options/array_theme_options.php:23
+msgid ""
+"Below are all the locations, which are supported by this theme. Toggle for "
+"change their settings."
+msgstr ""
+"Ниже приведены все местоположения, поддерживаемые этой темой. Кликните на "
+"название для изменения их настроек."
+
+#: extensions/array_theme_options/array_theme_options.php:30
+msgid "Activate Mega Main Menu in such locations:"
+msgstr "Активировать Mega Main Меню в следующих местоположениях:"
+
+#: extensions/array_theme_options/array_theme_options.php:31
+msgid ""
+"Mega Main Menu and its settings will be displayed in selected locations only "
+"after the activation of this location."
+msgstr ""
+"Mega Main Menu и его настройки будут отображаться в выбранных меню только "
+"после активации этого местоположения."
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Firstly, You need to create at least one menu"
+msgstr "Для начала, вам нужно создать хотя бы одно меню"
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Theme Menu Settings"
+msgstr "Настройки меню темы"
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "and set theme-location for it"
+msgstr "и выбрать местоположение для него"
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Theme Menu Locations"
+msgstr "Расположение меню"
+
+#: extensions/array_theme_options/array_theme_options.php:63
+msgid "Layout Options:"
+msgstr "Параметры разметки для:"
+
+#: extensions/array_theme_options/array_theme_options.php:68
+msgid "Add to Mega Main Menu:"
+msgstr "Добавить в Mega Main Menu:"
+
+#: extensions/array_theme_options/array_theme_options.php:69
+msgid "You can add to the primary menu container search or other elements."
+msgstr ""
+"Вы можете добавить в основной контейнер меню поле поиска или другие элементы."
+
+#: extensions/array_theme_options/array_theme_options.php:73
+msgid "Search Box"
+msgstr "Поле поиска"
+
+#: extensions/array_theme_options/array_theme_options.php:74
+msgid "BuddyPress Bar"
+msgstr "BuddyPress"
+
+#: extensions/array_theme_options/array_theme_options.php:75
+msgid "WooCart"
+msgstr "WooCart"
+
+#: extensions/array_theme_options/array_theme_options.php:76
+msgid "WPML switcher"
+msgstr "WPML переключатель языка"
+
+#: extensions/array_theme_options/array_theme_options.php:81
+msgid "Height of the first level items"
+msgstr "Высота элементов первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:82
+#: extensions/array_theme_options/array_theme_options.php:281
+msgid ""
+"Set the height for the initial menu container and items of the first level."
+msgstr ""
+"Установите высоту для исходного контейнера меню и элементов первого уровня."
+
+#: extensions/array_theme_options/array_theme_options.php:92
+msgid "Primary Style"
+msgstr "Основной стиль"
+
+#: extensions/array_theme_options/array_theme_options.php:93
+msgid "Select the button style that fits the style of your site."
+msgstr "Выберите стиль кнопки, который соответствует стилю вашего сайта."
+
+#: extensions/array_theme_options/array_theme_options.php:98
+msgid "Flat"
+msgstr "Слитные кнопки"
+
+#: extensions/array_theme_options/array_theme_options.php:99
+msgid "Buttons"
+msgstr "Отдельностоящие кнопки"
+
+#: extensions/array_theme_options/array_theme_options.php:99
+msgid "(+1 option)"
+msgstr "(+1 опция)"
+
+#: extensions/array_theme_options/array_theme_options.php:104
+msgid "Buttons Height"
+msgstr "Высота кнопок"
+
+#: extensions/array_theme_options/array_theme_options.php:105
+msgid ""
+"Only for \"Buttons\" style. Specify here height of the first level buttons."
+msgstr ""
+"Только для стиля «Отдельностоящие кнопки». Укажите здесь высоту кнопок "
+"первого уровня."
+
+#: extensions/array_theme_options/array_theme_options.php:121
+msgid "The logo file"
+msgstr "Файл логотопа"
+
+#: extensions/array_theme_options/array_theme_options.php:122
+msgid ""
+"Select image to be used as logo in Main Mega Menu. It's recommended to use "
+"image with transparent background (.PNG) and sizes from 200 to 800 px."
+msgstr ""
+"Выберите изображение, которое будет использоваться в качестве логотипа в "
+"главном меню. Рекомендуется использовать изображение с прозрачным фоном (."
+"PNG) и размером от 200 до 800 пикселей."
+
+#: extensions/array_theme_options/array_theme_options.php:128
+msgid "Maximum logo height"
+msgstr "Максимальная высота логотипа"
+
+#: extensions/array_theme_options/array_theme_options.php:129
+msgid ""
+"Maximum logo height in terms of percentage in regard to the height of the "
+"initial container."
+msgstr ""
+"Максимальная высота логотипа в процентах относительно высоты исходного "
+"контейнера."
+
+#: extensions/array_theme_options/array_theme_options.php:138
+msgid "Logo positions"
+msgstr "Позиции логотипа"
+
+#: extensions/array_theme_options/array_theme_options.php:139
+msgid ""
+"Please select the situations when you want to display logo for this menu."
+msgstr ""
+"Пожалуйста выберите ситуации в которых вы хотите отображать логотип для "
+"этого меню."
+
+#: extensions/array_theme_options/array_theme_options.php:143
+msgid "Desktop (non-sticky)"
+msgstr "Настольный компьютер (НЕ липкое меню)"
+
+#: extensions/array_theme_options/array_theme_options.php:144
+#: extensions/array_theme_options/array_theme_options.php:297
+msgid "Sticky"
+msgstr "Липкое меню"
+
+#: extensions/array_theme_options/array_theme_options.php:145
+msgid "Mobile"
+msgstr "Мобильное устройство"
+
+#: extensions/array_theme_options/array_theme_options.php:150
+msgid "Alignment of the first level items"
+msgstr "Выравнивание элементов первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:151
+msgid "Choose how to align menu elements of the first level."
+msgstr "Выберите способ выравнивания элементов меню первого уровня."
+
+#: extensions/array_theme_options/array_theme_options.php:156
+#: extensions/array_theme_options/array_theme_options.php:170
+msgid "Left"
+msgstr "Слева"
+
+#: extensions/array_theme_options/array_theme_options.php:157
+msgid "Center"
+msgstr "Цунтрировать"
+
+#: extensions/array_theme_options/array_theme_options.php:158
+#: extensions/array_theme_options/array_theme_options.php:172
+msgid "Right"
+msgstr "Справа"
+
+#: extensions/array_theme_options/array_theme_options.php:159
+msgid "Justify (No Logo!)"
+msgstr "Растянуть (Без Логотипа!)"
+
+#: extensions/array_theme_options/array_theme_options.php:164
+msgid "Location of icon in first level elements"
+msgstr "Расположение иконки в элементах первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:165
+msgid "Choose where to place icon for first level items."
+msgstr "Выберите, где разместить иконки для пунктов меню первого уровня."
+
+#: extensions/array_theme_options/array_theme_options.php:171
+msgid "Above"
+msgstr "Сверху"
+
+#: extensions/array_theme_options/array_theme_options.php:173
+msgid "Disable Icons In First Level Items"
+msgstr "Отключить иконки в пунктах меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:174
+msgid "Disable Icons Globally"
+msgstr "Отключить иконки глобально"
+
+#: extensions/array_theme_options/array_theme_options.php:179
+msgid "Separator"
+msgstr "Разделитель"
+
+#: extensions/array_theme_options/array_theme_options.php:180
+msgid "Select type of separator between the first level items of this menu."
+msgstr ""
+"Выберите тип разделителя между пунктами меню первого уровня для этого меню."
+
+#: extensions/array_theme_options/array_theme_options.php:185
+#: extensions/array_theme_options/array_theme_options.php:219
+msgid "None"
+msgstr "Отключить"
+
+#: extensions/array_theme_options/array_theme_options.php:186
+msgid "Smooth"
+msgstr "Плавный"
+
+#: extensions/array_theme_options/array_theme_options.php:187
+msgid "Sharp"
+msgstr "Резкий"
+
+#: extensions/array_theme_options/array_theme_options.php:192
+msgid "Rounded corners"
+msgstr "Закругление углов"
+
+#: extensions/array_theme_options/array_theme_options.php:193
+msgid "Select the value of corners radius."
+msgstr "Выберите значение закругления углов."
+
+#: extensions/array_theme_options/array_theme_options.php:202
+msgid "Trigger"
+msgstr "Событие"
+
+#: extensions/array_theme_options/array_theme_options.php:203
+msgid "Show dropdowns by \"hover\" or \"click\"?"
+msgstr "Показать выпадающие меню с помощью \"Наведение курсора\" или \"Клик\"?"
+
+#: extensions/array_theme_options/array_theme_options.php:208
+msgid "Hover"
+msgstr "Наведение курсора"
+
+#: extensions/array_theme_options/array_theme_options.php:209
+msgid "Click"
+msgstr "Клик"
+
+#: extensions/array_theme_options/array_theme_options.php:214
+msgid "Dropdowns Animation"
+msgstr "Анимация для выпадающих меню"
+
+#: extensions/array_theme_options/array_theme_options.php:215
+msgid "Select the type of animation for displaying dropdowns."
+msgstr "Выберите тип анимации для отображения выпадающих меню."
+
+#: extensions/array_theme_options/array_theme_options.php:215
+#: extensions/array_theme_options/array_theme_options.php:772
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: extensions/array_theme_options/array_theme_options.php:215
+msgid ""
+"Animation correctly works only in the latest versions of progressive "
+"browsers."
+msgstr ""
+"Анимация корректно работает только в последних версиях современных браузеров."
+
+#: extensions/array_theme_options/array_theme_options.php:220
+msgid "Unfold"
+msgstr "Сползание"
+
+#: extensions/array_theme_options/array_theme_options.php:221
+msgid "Fading"
+msgstr "Появление"
+
+#: extensions/array_theme_options/array_theme_options.php:222
+msgid "Scale"
+msgstr "Растягивание"
+
+#: extensions/array_theme_options/array_theme_options.php:223
+msgid "Down to Up"
+msgstr "Снизу вверх"
+
+#: extensions/array_theme_options/array_theme_options.php:224
+msgid "Dropdown"
+msgstr "Выпадение"
+
+#: extensions/array_theme_options/array_theme_options.php:229
+msgid "Minimized on Handheld Devices"
+msgstr "Минимизировать на мобильных устройствах"
+
+#: extensions/array_theme_options/array_theme_options.php:230
+msgid ""
+"If this option is activated you get the folded menu on handheld devices."
+msgstr ""
+"Если эта опция активирована, вы получите сложенное меню на мобильных "
+"устройствах."
+
+#: extensions/array_theme_options/array_theme_options.php:234
+#: extensions/array_theme_options/array_theme_options.php:270
+#: extensions/array_theme_options/array_theme_options.php:302
+#: extensions/array_theme_options/array_theme_options.php:333
+#: extensions/array_theme_options/array_theme_options.php:726
+#: extensions/array_theme_options/array_theme_options.php:767
+#: extensions/array_theme_options/array_theme_options.php:776
+msgid "Enable"
+msgstr "Включить"
+
+#: extensions/array_theme_options/array_theme_options.php:239
+msgid "Label for Mobile Menu"
+msgstr "Метка для кнопки мобильного меню"
+
+#: extensions/array_theme_options/array_theme_options.php:240
+msgid ""
+"Here you can specify label that will be displayed on the mobile version of "
+"the menu."
+msgstr ""
+"Здесь вы можете указать метку, которая будет отображаться в мобильной версии "
+"меню."
+
+#: extensions/array_theme_options/array_theme_options.php:244
+msgid "Menu"
+msgstr "Меню"
+
+#: extensions/array_theme_options/array_theme_options.php:253
+msgid "Direction"
+msgstr "Направление"
+
+#: extensions/array_theme_options/array_theme_options.php:254
+msgid ""
+"Here you can determine the direction of the menu. Horizontal for classic top "
+"menu bar. Vertical for sidebar menu."
+msgstr ""
+"Здесь вы можете определить направление меню. Горизонтальное для классической "
+"верхней панели меню. Вертикальное для меню боковой панели."
+
+#: extensions/array_theme_options/array_theme_options.php:259
+#: framework/options_generator.php:719
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: extensions/array_theme_options/array_theme_options.php:259
+msgid "(+5 option)"
+msgstr "(+5 опций)"
+
+#: extensions/array_theme_options/array_theme_options.php:260
+#: framework/options_generator.php:719
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: extensions/array_theme_options/array_theme_options.php:265
+msgid "Full Width Initial Container"
+msgstr "Первоначальный контейнер с полной шириной"
+
+#: extensions/array_theme_options/array_theme_options.php:266
+msgid ""
+"If this option is enabled then the primary container will try to be the full "
+"width."
+msgstr ""
+"Если эта опция включена, то основной контейнер будет иметь полную ширину."
+
+#: extensions/array_theme_options/array_theme_options.php:280
+msgid "Height of the first level items when menu is Sticky (or Mobile)"
+msgstr ""
+"Высота пунктов меню первого уровня, когда меню является липким (или "
+"мобильным)"
+
+#: extensions/array_theme_options/array_theme_options.php:298
+msgid ""
+"Check this option to make the menu sticky. Make sure you have disabled "
+"\"Sticky\" in the theme options. Incompatible with the \"Vertical\" menu. "
+"Sticky do not works on mobile devices. If the menu will be sticky on mobile "
+"devices when you open it - you will be not able to click on the last item, "
+"because it always will be outside the screen."
+msgstr ""
+"Выбирите этот параметр, чтобы сделать меню липким. Убедитесь, что вы "
+"отключили «Sticky» в настройках темы. Несовместимо с «Вертикальным» типом "
+"меню. Липкое меню не работает на мобильных устройствах. Если вы откроете "
+"липкое меню на мобильных устройствах, то вы не сможете щелкнуть последний "
+"элемент, потому что он всегда будет за пределами экрана."
+
+#: extensions/array_theme_options/array_theme_options.php:312
+msgid "Sticky scroll offset"
+msgstr "Длина проскроливания перед липким меню"
+
+#: extensions/array_theme_options/array_theme_options.php:313
+msgid ""
+"Set the length of the scroll for each user to pass before the menu will "
+"stick to the top of the window."
+msgstr ""
+"Установите длину прокрутки которую должен пройти пользователь, прежде чем "
+"меню приклеится верхней части окна."
+
+#: extensions/array_theme_options/array_theme_options.php:328
+msgid "Push Content Down"
+msgstr "Смещать контент вниз"
+
+#: extensions/array_theme_options/array_theme_options.php:329
+msgid ""
+"Dropdown areas pushes the main website content down instead to dropping down "
+"over content. This option will be useful only for \"Multi column\" and "
+"\"Full width\" dropdowns."
+msgstr ""
+"Выпадающие меню будут толкать основной контент сайта вниз для того чтобы не "
+"перекрывать его. Эта опция будет полезна только для \"Многоколончатых "
+"выпадающих меню\" и для \"выпадающих меню с полной шириной\"."
+
+#: extensions/array_theme_options/array_theme_options.php:343
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: extensions/array_theme_options/array_theme_options.php:344
+msgid ""
+"You can copy this code and use in the content of the page in order to "
+"display this menu. Do not forget to activate mega menu for this location, "
+"using option at the beginning of this page."
+msgstr ""
+"Вы можете скопировать этот код и использовать его в содержании страницы, "
+"чтобы отобразить это меню. Не забудьте активировать мега-меню для этого "
+"местоположения, используя опцию в начале этой страницы."
+
+#: extensions/array_theme_options/array_theme_options.php:350
+msgid "Forced PHP Integration"
+msgstr "Принудительная PHP интеграция"
+
+#: extensions/array_theme_options/array_theme_options.php:351
+msgid ""
+"If you have knowledge of PHP you can call this function anywhere in order to "
+"display this menu. Please use it only if you professional."
+msgstr ""
+"Если у вас есть знания PHP, вы можете вызвать эту функцию в любом месте, "
+"чтобы отобразить это меню. Пожалуйста, используйте это только в том случае, "
+"если вы профессионал."
+
+#: extensions/array_theme_options/array_theme_options.php:379
+msgid "You can change any properties for any menu location"
+msgstr "Вы можете изменить любые свойства для любого местоположения меню"
+
+#: extensions/array_theme_options/array_theme_options.php:395
+msgid "Skin Options:"
+msgstr "Настройки цветовой схемы для:"
+
+#: extensions/array_theme_options/array_theme_options.php:400
+msgid "Skin"
+msgstr "Цветовая схема"
+
+#: extensions/array_theme_options/array_theme_options.php:401
+msgid ""
+"You can select skin and then below customize only options that you want to "
+"change."
+msgstr ""
+"Вы можете выбрать цветовую схему и потом настроить только те опции, которые "
+"вы хотите изменить."
+
+#: extensions/array_theme_options/array_theme_options.php:409
+msgid "Initial Container"
+msgstr "Первоначальный контейнер"
+
+#: extensions/array_theme_options/array_theme_options.php:414
+msgid "Background Gradient (Color) of the primary container"
+msgstr "Фоновый градиент (цвет) основного контейнера"
+
+#: extensions/array_theme_options/array_theme_options.php:420
+msgid "Background image of the primary container"
+msgstr "Фоновое изображение основного контейнера"
+
+#: extensions/array_theme_options/array_theme_options.php:421
+msgid "You can choose and tune the background image for the primary container."
+msgstr ""
+"Вы можете выбрать и настроить фоновое изображение для основного контейнера."
+
+#: extensions/array_theme_options/array_theme_options.php:427
+msgid "First Level Items"
+msgstr "Пункты меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:432
+msgid "Font of the First Level Item"
+msgstr "Шрифт пунктов меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:433
+msgid "You can change size and weight of the font for first level items."
+msgstr ""
+"Вы можете изменить размер и начертание шрифта для пунктов меню первого "
+"уровня."
+
+#: extensions/array_theme_options/array_theme_options.php:440
+msgid "Text color of the first level item"
+msgstr "Цвет текста пунктов меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:446
+msgid "Icons in the first level item"
+msgstr "Иконки пунктов меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:462
+msgid "Background Gradient (Color) of the first level item"
+msgstr "Фоновый градиент (цвет) пунктов меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:468
+msgid "Text color of the active first level item"
+msgstr "Цвет текста активного пункта меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:474
+msgid "Background Gradient (Color) of the active first level item"
+msgstr "Фоновый градиент (цвет) активного пункта меню первого уровня"
+
+#: extensions/array_theme_options/array_theme_options.php:480
+msgid "Background color of the Search Box"
+msgstr "Цвет фона поля поиска"
+
+#: extensions/array_theme_options/array_theme_options.php:486
+msgid "Text and icon color of the Search Box"
+msgstr "Цвет текста и иконки поля поиска"
+
+#: extensions/array_theme_options/array_theme_options.php:492
+msgid "Dropdowns"
+msgstr "Выпадающие меню"
+
+#: extensions/array_theme_options/array_theme_options.php:497
+msgid "Background Gradient (Color) of the Dropdown Area"
+msgstr "Фоновый градиент (цвет) выпадающей области"
+
+#: extensions/array_theme_options/array_theme_options.php:503
+msgid "Font of the dropdown menu item"
+msgstr "Шрифт выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:510
+msgid "Text color of the dropdown menu item"
+msgstr "Цвет текста выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:516
+msgid "Icons of the dropdown menu item"
+msgstr "Иконки выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:532
+msgid "Background Gradient (Color) of the dropdown menu item"
+msgstr "Фоновый градиент (цвет) выпадающих пунктов меню"
+
+#: extensions/array_theme_options/array_theme_options.php:538
+msgid "Border color between dropdown menu items"
+msgstr "Цвет границы между пунктами выпадающих меню"
+
+#: extensions/array_theme_options/array_theme_options.php:544
+msgid "Text color of the dropdown active menu item"
+msgstr "Цвет текста активного пункта меню выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:550
+msgid "Background Gradient (Color) of the dropdown active menu item"
+msgstr "Фоновый градиент (цвет) активного пункта меню выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:556
+msgid "Plain Text Color of the Dropdown"
+msgstr "Цвет обычного текста в раскрывающемся списке"
+
+#: extensions/array_theme_options/array_theme_options.php:571
+msgid "Set of Installed Google Fonts"
+msgstr "Набор предустановленных шрифтов Google"
+
+#: extensions/array_theme_options/array_theme_options.php:572
+msgid ""
+"Select the fonts to be included on the site. Remember that a lot of fonts "
+"affect on the speed of load page. Always remove unnecessary fonts. Font "
+"faces can see on this page -"
+msgstr ""
+"Выберите шрифты, которые будут добавлены на сайт. Помните, что множество "
+"шрифтов влияет на скорость загрузки страницы. Всегда удаляйте ненужные "
+"шрифты. Список шрифтов можно видеть на следующей странице -"
+
+#: extensions/array_theme_options/array_theme_options.php:578
+msgid "Font 1"
+msgstr "Шрифт №1"
+
+#: extensions/array_theme_options/array_theme_options.php:583
+msgid "Fonts Faily"
+msgstr "Семейство шрифта"
+
+#: extensions/array_theme_options/array_theme_options.php:597
+msgid "Custom Icons"
+msgstr "Пользовательские иконки"
+
+#: extensions/array_theme_options/array_theme_options.php:598
+msgid ""
+"You can add custom raster icons. After saving these settings, icons will "
+"become available in a modal window of icons selection. Recommended size "
+"64x64 pixels."
+msgstr ""
+"Вы можете добавить пользовательские растровые иконки. После сохранения этих "
+"настроек иконки будут доступными в модальном окне выбора иконок. "
+"Рекомендуемый размер 64x64 пикселей."
+
+#: extensions/array_theme_options/array_theme_options.php:604
+msgid "Custom Icon 1"
+msgstr "Пользовательская иконка №1"
+
+#: extensions/array_theme_options/array_theme_options.php:609
+msgid "Icon File"
+msgstr "Файл иконки"
+
+#: extensions/array_theme_options/array_theme_options.php:615
+msgid "Icon File on Hover"
+msgstr "Файл иконки при наведении курсора"
+
+#: extensions/array_theme_options/array_theme_options.php:616
+msgid "Keep empty to use regular for both."
+msgstr ""
+"Оставьте пустым для того чтобы использовать одну иконку для обоих случаев."
+
+#: extensions/array_theme_options/array_theme_options.php:629
+msgid "Additional Styles:"
+msgstr "Дополнительные стили:"
+
+#: extensions/array_theme_options/array_theme_options.php:630
+msgid ""
+"Here you can add and edit highlighting styles. After that you can select "
+"these styles for menu item in \"Appearance -> Menus -> Your Menu Item -> "
+"Style of This Item\" option."
+msgstr ""
+"Здесь вы можете добавлять и редактировать дополнительные стили, после чего "
+"вы можете выбрать эти стили для пункта меню в разделе \"Внешний Вид -> Меню -"
+"> Пункт меню -> Стиль этого элемента\"."
+
+#: extensions/array_theme_options/array_theme_options.php:636
+msgid "Style 1"
+msgstr "Стиль №1"
+
+#: extensions/array_theme_options/array_theme_options.php:641
+msgid "Style Name"
+msgstr "Название стиля"
+
+#: extensions/array_theme_options/array_theme_options.php:647
+msgid "Font"
+msgstr "Шрифт"
+
+#: extensions/array_theme_options/array_theme_options.php:654
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: extensions/array_theme_options/array_theme_options.php:661
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: extensions/array_theme_options/array_theme_options.php:667
+msgid "Background Gradient (Color)"
+msgstr "Фоновый градиент (цвет)"
+
+#: extensions/array_theme_options/array_theme_options.php:673
+msgid "Text color of the active item"
+msgstr "Цвет текста активного элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:679
+msgid "Background Gradient (Color) of the active item"
+msgstr "Фоновый градиент (цвет) активного элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:697
+msgid "General"
+msgstr "Основные"
+
+#: extensions/array_theme_options/array_theme_options.php:703
+msgid "Skins"
+msgstr "Цветовая схема"
+
+#: extensions/array_theme_options/array_theme_options.php:709
+msgid "Specific Options"
+msgstr "Специфические настройки"
+
+#: extensions/array_theme_options/array_theme_options.php:714
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: extensions/array_theme_options/array_theme_options.php:715
+msgid "You can place here any necessary custom CSS properties."
+msgstr ""
+"Вы можете разместить здесь любые необходимые пользовательские CSS правила."
+
+#: extensions/array_theme_options/array_theme_options.php:721
+msgid "Responsive for Handheld Devices"
+msgstr "Отзывчивое для мобильных устройств"
+
+#: extensions/array_theme_options/array_theme_options.php:722
+msgid ""
+"Enable responsive properties. If this option is enabled, then the menu will "
+"be transformed, if the user uses the handheld device."
+msgstr ""
+"Включить отзывчивые меню. Если этот параметр включен, тогда меню будет "
+"преобразовываться в случае, если пользователь использует мобильное "
+"устройство."
+
+#: extensions/array_theme_options/array_theme_options.php:731
+msgid "Responsive Resolution"
+msgstr "Отзывчивое разрешение"
+
+#: extensions/array_theme_options/array_theme_options.php:732
+msgid ""
+"Select on which screen resolution menu will be transformed for mobile "
+"devices."
+msgstr ""
+"Выберите для какого размера экрана меню будет трансформироваться в мобильную "
+"версию."
+
+#: extensions/array_theme_options/array_theme_options.php:747
+msgid "Use sets of icons"
+msgstr "Используемые наборы иконок"
+
+#: extensions/array_theme_options/array_theme_options.php:748
+msgid ""
+"Here you can activate different sets of icons. Remember that the larger the "
+"list of icons - require more of time to loading page."
+msgstr ""
+"Здесь вы можете активировать разные наборы иконок. Помните, что чем больше "
+"наборов иконок, тем больше времени требуется для загрузки страницы."
+
+#: extensions/array_theme_options/array_theme_options.php:752
+msgid "IcoMoon (1200)"
+msgstr "IcoMoon (1200)"
+
+#: extensions/array_theme_options/array_theme_options.php:753
+msgid "FontAwesome (400)"
+msgstr "FontAwesome (400)"
+
+#: extensions/array_theme_options/array_theme_options.php:754
+msgid "Glyphicons (200)"
+msgstr "Glyphicons (200)"
+
+#: extensions/array_theme_options/array_theme_options.php:755
+msgid "Linearicons (170)"
+msgstr "Linearicons (170)"
+
+#: extensions/array_theme_options/array_theme_options.php:762
+msgid "Use Coercive Styles"
+msgstr "Использовать принудительные стили"
+
+#: extensions/array_theme_options/array_theme_options.php:763
+msgid ""
+"If this option is checked - all CSS properties for this plugin will be have "
+"\"!important\" priority."
+msgstr ""
+"Если эта опция включена то все свойства CSS для этого плагина будут иметь \"!"
+"important\" приоритет."
+
+#: extensions/array_theme_options/array_theme_options.php:771
+msgid "\"Indefinite location\" mode"
+msgstr "Режим неопределеного местоположения"
+
+#: extensions/array_theme_options/array_theme_options.php:772
+msgid ""
+"If this option is checked - all menus will be replaced by the mega menu. "
+"This will be useful only for templates in which are not defined locations of "
+"the menu and template has only one menu."
+msgstr ""
+"Если этот флажок установлен, все меню будут заменены на Mega Main Menu это "
+"будет полезно только для шаблонов, в которых есть только одно меню."
+
+#: extensions/array_theme_options/array_theme_options.php:780
+msgid "Number of widget areas"
+msgstr "Количество областей виджетов"
+
+#: extensions/array_theme_options/array_theme_options.php:781
+msgid "Set here how many independent widget areas you need."
+msgstr "Установите здесь, сколько вам нужно независимых областей виджетов."
+
+#: extensions/array_theme_options/array_theme_options.php:791
+msgid "Language text direction"
+msgstr "Направление текста"
+
+#: extensions/array_theme_options/array_theme_options.php:792
+msgid ""
+"You can select direction of the text for this plugin. LTR - sites where text "
+"is read from left to right. RTL - sites where text is read from right to "
+"left."
+msgstr ""
+"Вы можете выбрать направление текста для этого плагина. LTR - сайты, где "
+"текст читается слева направо. RTL - сайты, где текст читается справа налево."
+
+#: extensions/array_theme_options/array_theme_options.php:796
+msgid "Left To Right"
+msgstr "Слева направо"
+
+#: extensions/array_theme_options/array_theme_options.php:797
+msgid "Right To Left"
+msgstr "Справо налево"
+
+#: extensions/array_theme_options/array_theme_options.php:804
+msgid "max_input_vars"
+msgstr "max_input_vars"
+
+#: extensions/array_theme_options/array_theme_options.php:805
+msgid ""
+"This is real value of \"max_input_vars\" option in the configuration of your "
+"server. You can try to increase it in one of ways that are described in"
+msgstr ""
+"Это реальное значение параметра max_input_vars в конфигурации вашего "
+"сервера. Вы можете попытаться увеличить его одним из способов, описанных в"
+
+#: extensions/array_theme_options/array_theme_options.php:805
+msgid "Documentation"
+msgstr "Документации"
+
+#: extensions/array_theme_options/array_theme_options.php:811
+msgid "Backup of the configuration"
+msgstr "Резервное копирование настроек"
+
+#: extensions/array_theme_options/array_theme_options.php:812
+msgid ""
+"You can make a backup of the plugin configuration and restore this "
+"configuration later. Notice: Options of each menu item from the section "
+"\"Menu Structure\" is not imported."
+msgstr ""
+"Вы можете сделать резервную копию конфигурации плагина и позже восстановить "
+"эту конфигурацию. Примечание: параметры каждого пункта меню из раздела "
+"\"Структура меню\" не импортируются."
+
+#: extensions/array_theme_options/array_theme_options.php:815
+msgid "Download backup file with current settings"
+msgstr "Скачать резервную копию текущих настроек"
+
+#: extensions/array_theme_options/array_theme_options.php:815
+msgid ""
+"Upload backup file and restore settings. Choose file and click \"Save All "
+"Settings\"."
+msgstr ""
+"Загрузите файл резервной копии и восстановите настройки. Выберите файл и "
+"нажмите \"Сохранить все настройки\"."
+
+#: extensions/array_theme_options/array_theme_options.php:818
+msgid "Reset Configuration"
+msgstr "Сбросить настройки"
+
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid ""
+"If you need to reset configuration of this plugin then check this option and "
+"click \"Save Changes\"."
+msgstr ""
+"Если вам нужно сбросить настройки этого плагина, то установите этот флажок и "
+"нажмите Сохранить Изменения."
+
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid ""
+"After this action all values of options located on this page will be reset "
+"to default values."
+msgstr ""
+"После этого действия все значения параметров, расположенных на этой "
+"странице, будут сброшены до значений по умолчанию."
+
+#: extensions/array_theme_options/array_theme_options.php:823
+msgid "Reset Plugin Configuration"
+msgstr "Сбросить настройки плагина"
+
+#: extensions/array_theme_options/array_theme_options.php:830
+msgid "Settings of the structure"
+msgstr "Настройки структуры меню"
+
+#: extensions/array_theme_options/array_theme_options.php:835
+msgid ""
+"Here you can deactivate the options that you do not use to customize the "
+"menu structure. It helps reduce the number of options and reduce the load on "
+"the server."
+msgstr ""
+"Здесь вы можете деактивировать параметры, которые не используются для "
+"настройки структуры меню. Это помогает уменьшить количество параметров и "
+"уменьшить нагрузку на сервер."
+
+#: extensions/array_theme_options/array_theme_options.php:840
+msgid "Description of the item"
+msgstr "Описание элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:844
+#: extensions/array_theme_options/array_theme_options.php:852
+#: extensions/array_theme_options/array_theme_options.php:861
+#: extensions/array_theme_options/array_theme_options.php:870
+#: extensions/array_theme_options/array_theme_options.php:878
+#: extensions/array_theme_options/array_theme_options.php:886
+#: extensions/array_theme_options/array_theme_options.php:894
+#: extensions/array_theme_options/array_theme_options.php:903
+#: extensions/array_theme_options/array_theme_options.php:911
+#: extensions/array_theme_options/array_theme_options.php:919
+#: extensions/array_theme_options/array_theme_options.php:927
+#: extensions/array_theme_options/array_theme_options.php:935
+msgid "Disable"
+msgstr "Отключить"
+
+#: extensions/array_theme_options/array_theme_options.php:848
+msgid "Style of the item"
+msgstr "Стиль элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:857
+#: extensions/mega_main_menu/menu_options_array.php:68
+msgid "Visibility Control"
+msgstr "Контроль видимости"
+
+#: extensions/array_theme_options/array_theme_options.php:866
+msgid "Icon of the item"
+msgstr "Икона элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:874
+msgid "Hide Text of the Item"
+msgstr "Скрыть текст элемента"
+
+#: extensions/array_theme_options/array_theme_options.php:882
+#: extensions/mega_main_menu/menu_options_array.php:89
+msgid "Disable Link"
+msgstr "Отключить ссылку"
+
+#: extensions/array_theme_options/array_theme_options.php:890
+#: extensions/mega_main_menu/menu_options_array.php:96
+msgid "Pull to the Other Side"
+msgstr "Перетянуть пункт меню на другию сторону"
+
+#: extensions/array_theme_options/array_theme_options.php:899
+#: extensions/mega_main_menu/menu_options_array.php:101
+msgid "Submenu Type"
+msgstr "Тип подменю"
+
+#: extensions/array_theme_options/array_theme_options.php:907
+msgid "Side of dropdown elements"
+msgstr "Сторона выпадающих меню"
+
+#: extensions/array_theme_options/array_theme_options.php:915
+msgid "Submenu Columns"
+msgstr "Количество колонок в подменю"
+
+#: extensions/array_theme_options/array_theme_options.php:923
+msgid "Enable Full Width Dropdown"
+msgstr "Полная ширина для выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:931
+#: extensions/mega_main_menu/menu_options_array.php:148
+msgid "Dropdown Background Image"
+msgstr "Фоновое изображение для выпадающего меню"
+
+#: extensions/array_theme_options/array_theme_options.php:941
+msgid "Documentation & Support"
+msgstr "Документация и поддержка"
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid "Online documentation"
+msgstr "Онлайн-документация"
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid ""
+"If you need support, If you have a question or suggestion - Leave a message "
+"on our support page"
+msgstr ""
+"Если вам нужна поддержка, если у вас есть вопрос или предложение - Оставьте "
+"сообщение на нашей странице поддержки"
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid "(in new window)"
+msgstr "(в новом окне)"
+
+#: extensions/array_theme_options/array_theme_options.php:952
+#: extensions/array_theme_options/array_theme_options.php:953
+msgid "Purchase Code"
+msgstr "Код покупки"
+
+#: extensions/array_theme_options/array_theme_options.php:953
+msgid ""
+"Enter here the purchase code of this product. This action unlocks the "
+"automatic updates for you. \"Where you can find your"
+msgstr ""
+"Введите здесь код покупки этого продукта. Это действие открывает для вас "
+"автоматические обновления плагина. Где вы можете найти свой"
+
+#: extensions/mega_main_menu/backend_walker.php:150
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (некорректно)"
+
+#: extensions/mega_main_menu/backend_walker.php:154
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Ожидается)"
+
+#: extensions/mega_main_menu/backend_walker.php:167
+msgid "sub item"
+msgstr "подпункт"
+
+#: extensions/mega_main_menu/backend_walker.php:199
+msgid "Edit Menu Item"
+msgstr "Изменить пункт меню"
+
+#: extensions/mega_main_menu/backend_walker.php:208
+msgid "URL"
+msgstr "URL"
+
+#: extensions/mega_main_menu/backend_walker.php:215
+msgid "Navigation Label"
+msgstr "Название"
+
+#: extensions/mega_main_menu/backend_walker.php:221
+msgid "Title Attribute"
+msgstr "Атрибут title"
+
+#: extensions/mega_main_menu/backend_walker.php:228
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне / вкладке"
+
+#: extensions/mega_main_menu/backend_walker.php:233
+msgid "CSS Classes (optional)"
+msgstr "CSS-классы (необязательно)"
+
+#: extensions/mega_main_menu/backend_walker.php:239
+msgid "Link Relationship (XFN)"
+msgstr "Связь ссылки (XFN)"
+
+#: extensions/mega_main_menu/backend_walker.php:280
+msgid "Move"
+msgstr "Переместить"
+
+#: extensions/mega_main_menu/backend_walker.php:281
+msgid "Up one"
+msgstr "На один вверх"
+
+#: extensions/mega_main_menu/backend_walker.php:282
+msgid "Down one"
+msgstr "На один вниз"
+
+#: extensions/mega_main_menu/backend_walker.php:285
+msgid "To the top"
+msgstr "В самый верх"
+
+#: extensions/mega_main_menu/backend_walker.php:292
+#, php-format
+msgid "Original: %s"
+msgstr "Оригинальное название: %s"
+
+#: extensions/mega_main_menu/backend_walker.php:305
+msgid "Remove"
+msgstr "Удалить"
+
+#: extensions/mega_main_menu/backend_walker.php:306
+msgid "Cancel"
+msgstr "Отменить"
+
+#: extensions/mega_main_menu/handler.php:435
+#: extensions/mega_main_menu/handler.php:439
+msgid "Log Out"
+msgstr "Выход"
+
+#: extensions/mega_main_menu/menu_options_array.php:16
+msgid "Default"
+msgstr "По умолчанию"
+
+#: extensions/mega_main_menu/menu_options_array.php:25
+msgid "Standard Submenu"
+msgstr "Стандартное подменю"
+
+#: extensions/mega_main_menu/menu_options_array.php:26
+msgid "Multicolumn Submenu"
+msgstr "Многоколончатое подменю"
+
+#: extensions/mega_main_menu/menu_options_array.php:27
+msgid "Tabs Submenu"
+msgstr "Подменю с вкладками"
+
+#: extensions/mega_main_menu/menu_options_array.php:28
+msgid "Grid Submenu"
+msgstr "Подменю в виде сетки"
+
+#: extensions/mega_main_menu/menu_options_array.php:29
+msgid "Posts Grid Submenu"
+msgstr "Публикации в виде сетки"
+
+#: extensions/mega_main_menu/menu_options_array.php:32
+msgid "Posts Grid Submenu (Multisite)"
+msgstr "Публикации в виде сетки (Multisite)"
+
+#: extensions/mega_main_menu/menu_options_array.php:38
+msgid "Widgets area"
+msgstr "Область виджета"
+
+#: extensions/mega_main_menu/menu_options_array.php:45
+msgid "Always Visible"
+msgstr "Всегда видимый"
+
+#: extensions/mega_main_menu/menu_options_array.php:46
+msgid "Visible Only for Logged Users"
+msgstr "Доступно только зарегистрированным пользователям"
+
+#: extensions/mega_main_menu/menu_options_array.php:47
+msgid "Visible Only for Unlogged Visitors"
+msgstr "Доступно только незарегистрированным посетителям"
+
+#: extensions/mega_main_menu/menu_options_array.php:51
+msgid "Visible Only for"
+msgstr "Доступно только для"
+
+#: extensions/mega_main_menu/menu_options_array.php:55
+msgid "Description"
+msgstr "Описание"
+
+#: extensions/mega_main_menu/menu_options_array.php:61
+msgid "Style of This Item"
+msgstr "Стиль этого элемента"
+
+#: extensions/mega_main_menu/menu_options_array.php:74
+msgid "Icon of This Item (set empty to hide)"
+msgstr "Икона этого элемента (оставить пустым, чтобы скрыть)"
+
+#: extensions/mega_main_menu/menu_options_array.php:82
+msgid "Hide Text of This Item"
+msgstr "Скрыть текст этого элемента"
+
+#: extensions/mega_main_menu/menu_options_array.php:100
+msgid "Options of Dropdown"
+msgstr "Опции выпадающего меню"
+
+#: extensions/mega_main_menu/menu_options_array.php:114
+msgid "Post Type for Display in Dropdown"
+msgstr "Тип заметок для отображения в выпадающем меню"
+
+#: extensions/mega_main_menu/menu_options_array.php:126
+msgid "Side of Dropdown Area"
+msgstr "Сторона выпадающего меню"
+
+#: extensions/mega_main_menu/menu_options_array.php:129
+msgid "Drop To Right Side"
+msgstr "Сбрасывать в правую сторону"
+
+#: extensions/mega_main_menu/menu_options_array.php:130
+msgid "Drop To Left Side"
+msgstr "Сбрасывать в левую сторону"
+
+#: extensions/mega_main_menu/menu_options_array.php:131
+msgid "Drop To Center"
+msgstr "Сбрасывать в центр"
+
+#: extensions/mega_main_menu/menu_options_array.php:135
+msgid "Submenu Columns (Not For Standard Drops)"
+msgstr "Столбцы подменю (не для стандартных подменю)"
+
+#: extensions/mega_main_menu/menu_options_array.php:144
+msgid "Enable Full Width Dropdown (only for horizontal menu)"
+msgstr "Включить полную ширину выпадающего (только для горизонтального меню)"
+
+#: extensions/widgets/register_sidebars.php:41
+msgid "Add a \"Mega Main Menu\" to your sidebar."
+msgstr "Добавить Mega Main Menu на вашу боковую панель."
+
+#: extensions/widgets/register_sidebars.php:42
+msgid "Mega Main Sidebar Menu"
+msgstr "Mega Main Sidebar Menu"
+
+#: extensions/widgets/register_sidebars.php:75
+msgid "No menus have been created yet."
+msgstr "У вас еще нет ни одного меню."
+
+#: extensions/widgets/register_sidebars.php:75
+msgid "Create some"
+msgstr "Создойте одно"
+
+#: extensions/widgets/register_sidebars.php:80
+msgid "Title:"
+msgstr "Название:"
+
+#: extensions/widgets/register_sidebars.php:84
+msgid "Select Menu:"
+msgstr "Выберите Меню:"
+
+#: extensions/widgets/register_sidebars.php:135
+msgid "Mega Main Menu"
+msgstr "Mega Main Menu"
+
+#: extensions/widgets/register_sidebars.php:139
+msgid "MegaMain Extensions"
+msgstr "MegaMain Extensions"
+
+#: extensions/widgets/register_sidebars.php:142
+msgid "Select Layout (skin)"
+msgstr "Выбрать разметку"
+
+#: extensions/widgets/register_sidebars.php:143
+msgid "Select the animation style of the appearance for this element."
+msgstr "Выберите стиль анимации для этого элемента."
+
+#: extensions/z_pages_helper/icons_modal.php:32
+#: framework/options_generator.php:298
+msgid "Select Icon"
+msgstr "Выбрать иконку"
+
+#: extensions/z_pages_helper/icons_modal.php:37
+msgid "Search icon"
+msgstr "Поиск иконки"
+
+#: extensions/z_pages_helper/icons_modal.php:38
+msgid "OK"
+msgstr "Да"
+
+#: framework/init.php:232
+msgid "Save All Changes"
+msgstr "Сохранить все изменения"
+
+#: framework/options_generator.php:219 framework/options_generator.php:547
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: framework/options_generator.php:258
+msgid "Add One More"
+msgstr "Добавить еще один"
+
+#: framework/options_generator.php:298
+msgid "Show Icons"
+msgstr "Показать иконки"
+
+#: framework/options_generator.php:449
+msgid "Installed Google Fonts"
+msgstr "Установленные шрифты Google"
+
+#: framework/options_generator.php:453
+msgid "Safe Web Fonts (Recommended)"
+msgstr "Безопасные веб-шрифты (рекомендуется)"
+
+#: framework/options_generator.php:614
+msgid "Keep original"
+msgstr "Сохранить оригинальное"
+
+#: framework/options_generator.php:614
+msgid "Stretch to width"
+msgstr "Растянуть по ширине"
+
+#: framework/options_generator.php:614
+msgid "Stretch to height"
+msgstr "Растянуть в высоту"
+
+#: framework/options_generator.php:660
+msgid "Start"
+msgstr "Начало"
+
+#: framework/options_generator.php:698
+msgid "End"
+msgstr "Конец"
+
+#: framework/options_generator.php:719
+msgid "Radial"
+msgstr "Радиальный"
+
+#: framework/options_generator.php:735
+msgid "Click Here to View Result"
+msgstr "Нажмите здесь, чтобы просмотреть результат"
+
+#~ msgid "Company Logo (on left side)"
+#~ msgstr "Логотип компании (слева)"
+
+#~ msgid "Search Box (on right side)"
+#~ msgstr "Поле поиска (справа)"
+
+#~ msgid "WooCart (on right side)"
+#~ msgstr "WooCart (справа)"
+
+#~ msgid "Logo Settings"
+#~ msgstr "Настройки логотипа"
+
+#~ msgid "Skin Options of the Initial Container"
+#~ msgstr "Настройки цветовой схемы исходного контейнера"

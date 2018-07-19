@@ -1,0 +1,1223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mega Main Menu\n"
+"POT-Creation-Date: 2018-03-31 22:31-0700\n"
+"PO-Revision-Date: 2018-03-31 22:31-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mega_main_menu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:12
+msgid "Mega Main Options"
+msgstr ""
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:18
+msgid "Post Icon"
+msgstr ""
+
+#: extensions/array_meta_boxes/array_meta_boxes.php:19
+msgid ""
+"Select icon for this post, which will be displayed in the \"Post Grid "
+"Dropdown Menu\""
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:23
+msgid ""
+"Below are all the locations, which are supported by this theme. Toggle for "
+"change their settings."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:30
+msgid "Activate Mega Main Menu in such locations:"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:31
+msgid ""
+"Mega Main Menu and its settings will be displayed in selected locations only "
+"after the activation of this location."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Firstly, You need to create at least one menu"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Theme Menu Settings"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "and set theme-location for it"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:39
+msgid "Theme Menu Locations"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:63
+msgid "Layout Options:"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:68
+msgid "Add to Mega Main Menu:"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:69
+msgid "You can add to the primary menu container search or other elements."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:73
+msgid "Search Box"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:74
+msgid "BuddyPress Bar"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:75
+msgid "WooCart"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:76
+msgid "WPML switcher"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:81
+msgid "Height of the first level items"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:82
+#: extensions/array_theme_options/array_theme_options.php:281
+msgid ""
+"Set the height for the initial menu container and items of the first level."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:92
+msgid "Primary Style"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:93
+msgid "Select the button style that fits the style of your site."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:98
+msgid "Flat"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:99
+msgid "Buttons"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:99
+msgid "(+1 option)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:104
+msgid "Buttons Height"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:105
+msgid ""
+"Only for \"Buttons\" style. Specify here height of the first level buttons."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:121
+msgid "The logo file"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:122
+msgid ""
+"Select image to be used as logo in Main Mega Menu. It's recommended to use "
+"image with transparent background (.PNG) and sizes from 200 to 800 px."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:128
+msgid "Maximum logo height"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:129
+msgid ""
+"Maximum logo height in terms of percentage in regard to the height of the "
+"initial container."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:138
+msgid "Logo positions"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:139
+msgid ""
+"Please select the situations when you want to display logo for this menu."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:143
+msgid "Desktop (non-sticky)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:144
+#: extensions/array_theme_options/array_theme_options.php:297
+msgid "Sticky"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:145
+msgid "Mobile"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:150
+msgid "Alignment of the first level items"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:151
+msgid "Choose how to align menu elements of the first level."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:156
+#: extensions/array_theme_options/array_theme_options.php:170
+msgid "Left"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:157
+msgid "Center"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:158
+#: extensions/array_theme_options/array_theme_options.php:172
+msgid "Right"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:159
+msgid "Justify (No Logo!)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:164
+msgid "Location of icon in first level elements"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:165
+msgid "Choose where to place icon for first level items."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:171
+msgid "Above"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:173
+msgid "Disable Icons In First Level Items"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:174
+msgid "Disable Icons Globally"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:179
+msgid "Separator"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:180
+msgid "Select type of separator between the first level items of this menu."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:185
+#: extensions/array_theme_options/array_theme_options.php:219
+msgid "None"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:186
+msgid "Smooth"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:187
+msgid "Sharp"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:192
+msgid "Rounded corners"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:193
+msgid "Select the value of corners radius."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:202
+msgid "Trigger"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:203
+msgid "Show dropdowns by \"hover\" or \"click\"?"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:208
+msgid "Hover"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:209
+msgid "Click"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:214
+msgid "Dropdowns Animation"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:215
+msgid "Select the type of animation for displaying dropdowns."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:215
+#: extensions/array_theme_options/array_theme_options.php:772
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid "Warning"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:215
+msgid ""
+"Animation correctly works only in the latest versions of progressive "
+"browsers."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:220
+msgid "Unfold"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:221
+msgid "Fading"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:222
+msgid "Scale"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:223
+msgid "Down to Up"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:224
+msgid "Dropdown"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:229
+msgid "Minimized on Handheld Devices"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:230
+msgid ""
+"If this option is activated you get the folded menu on handheld devices."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:234
+#: extensions/array_theme_options/array_theme_options.php:270
+#: extensions/array_theme_options/array_theme_options.php:302
+#: extensions/array_theme_options/array_theme_options.php:333
+#: extensions/array_theme_options/array_theme_options.php:726
+#: extensions/array_theme_options/array_theme_options.php:767
+#: extensions/array_theme_options/array_theme_options.php:776
+msgid "Enable"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:239
+msgid "Label for Mobile Menu"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:240
+msgid ""
+"Here you can specify label that will be displayed on the mobile version of "
+"the menu."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:244
+msgid "Menu"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:253
+msgid "Direction"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:254
+msgid ""
+"Here you can determine the direction of the menu. Horizontal for classic top "
+"menu bar. Vertical for sidebar menu."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:259
+#: framework/options_generator.php:719
+msgid "Horizontal"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:259
+msgid "(+5 option)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:260
+#: framework/options_generator.php:719
+msgid "Vertical"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:265
+msgid "Full Width Initial Container"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:266
+msgid ""
+"If this option is enabled then the primary container will try to be the full "
+"width."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:280
+msgid "Height of the first level items when menu is Sticky (or Mobile)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:298
+msgid ""
+"Check this option to make the menu sticky. Make sure you have disabled "
+"\"Sticky\" in the theme options. Incompatible with the \"Vertical\" menu. "
+"Sticky do not works on mobile devices. If the menu will be sticky on mobile "
+"devices when you open it - you will be not able to click on the last item, "
+"because it always will be outside the screen."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:312
+msgid "Sticky scroll offset"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:313
+msgid ""
+"Set the length of the scroll for each user to pass before the menu will "
+"stick to the top of the window."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:328
+msgid "Push Content Down"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:329
+msgid ""
+"Dropdown areas pushes the main website content down instead to dropping down "
+"over content. This option will be useful only for \"Multi column\" and "
+"\"Full width\" dropdowns."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:343
+msgid "Shortcode"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:344
+msgid ""
+"You can copy this code and use in the content of the page in order to "
+"display this menu. Do not forget to activate mega menu for this location, "
+"using option at the beginning of this page."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:350
+msgid "Forced PHP Integration"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:351
+msgid ""
+"If you have knowledge of PHP you can call this function anywhere in order to "
+"display this menu. Please use it only if you professional."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:379
+msgid "You can change any properties for any menu location"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:395
+msgid "Skin Options:"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:400
+msgid "Skin"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:401
+msgid ""
+"You can select skin and then below customize only options that you want to "
+"change."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:409
+msgid "Initial Container"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:414
+msgid "Background Gradient (Color) of the primary container"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:420
+msgid "Background image of the primary container"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:421
+msgid "You can choose and tune the background image for the primary container."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:427
+msgid "First Level Items"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:432
+msgid "Font of the First Level Item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:433
+msgid "You can change size and weight of the font for first level items."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:440
+msgid "Text color of the first level item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:446
+msgid "Icons in the first level item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:462
+msgid "Background Gradient (Color) of the first level item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:468
+msgid "Text color of the active first level item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:474
+msgid "Background Gradient (Color) of the active first level item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:480
+msgid "Background color of the Search Box"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:486
+msgid "Text and icon color of the Search Box"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:492
+msgid "Dropdowns"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:497
+msgid "Background Gradient (Color) of the Dropdown Area"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:503
+msgid "Font of the dropdown menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:510
+msgid "Text color of the dropdown menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:516
+msgid "Icons of the dropdown menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:532
+msgid "Background Gradient (Color) of the dropdown menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:538
+msgid "Border color between dropdown menu items"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:544
+msgid "Text color of the dropdown active menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:550
+msgid "Background Gradient (Color) of the dropdown active menu item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:556
+msgid "Plain Text Color of the Dropdown"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:571
+msgid "Set of Installed Google Fonts"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:572
+msgid ""
+"Select the fonts to be included on the site. Remember that a lot of fonts "
+"affect on the speed of load page. Always remove unnecessary fonts. Font "
+"faces can see on this page -"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:578
+msgid "Font 1"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:583
+msgid "Fonts Faily"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:597
+msgid "Custom Icons"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:598
+msgid ""
+"You can add custom raster icons. After saving these settings, icons will "
+"become available in a modal window of icons selection. Recommended size "
+"64x64 pixels."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:604
+msgid "Custom Icon 1"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:609
+msgid "Icon File"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:615
+msgid "Icon File on Hover"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:616
+msgid "Keep empty to use regular for both."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:629
+msgid "Additional Styles:"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:630
+msgid ""
+"Here you can add and edit highlighting styles. After that you can select "
+"these styles for menu item in \"Appearance -> Menus -> Your Menu Item -> "
+"Style of This Item\" option."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:636
+msgid "Style 1"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:641
+msgid "Style Name"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:647
+msgid "Font"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:654
+msgid "Icon Size"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:661
+msgid "Text color"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:667
+msgid "Background Gradient (Color)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:673
+msgid "Text color of the active item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:679
+msgid "Background Gradient (Color) of the active item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:697
+msgid "General"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:703
+msgid "Skins"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:709
+msgid "Specific Options"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:714
+msgid "Custom CSS"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:715
+msgid "You can place here any necessary custom CSS properties."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:721
+msgid "Responsive for Handheld Devices"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:722
+msgid ""
+"Enable responsive properties. If this option is enabled, then the menu will "
+"be transformed, if the user uses the handheld device."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:731
+msgid "Responsive Resolution"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:732
+msgid ""
+"Select on which screen resolution menu will be transformed for mobile "
+"devices."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:747
+msgid "Use sets of icons"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:748
+msgid ""
+"Here you can activate different sets of icons. Remember that the larger the "
+"list of icons - require more of time to loading page."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:752
+msgid "IcoMoon (1200)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:753
+msgid "FontAwesome (400)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:754
+msgid "Glyphicons (200)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:755
+msgid "Linearicons (170)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:762
+msgid "Use Coercive Styles"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:763
+msgid ""
+"If this option is checked - all CSS properties for this plugin will be have "
+"\"!important\" priority."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:771
+msgid "\"Indefinite location\" mode"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:772
+msgid ""
+"If this option is checked - all menus will be replaced by the mega menu. "
+"This will be useful only for templates in which are not defined locations of "
+"the menu and template has only one menu."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:780
+msgid "Number of widget areas"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:781
+msgid "Set here how many independent widget areas you need."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:791
+msgid "Language text direction"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:792
+msgid ""
+"You can select direction of the text for this plugin. LTR - sites where text "
+"is read from left to right. RTL - sites where text is read from right to "
+"left."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:796
+msgid "Left To Right"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:797
+msgid "Right To Left"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:804
+msgid "max_input_vars"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:805
+msgid ""
+"This is real value of \"max_input_vars\" option in the configuration of your "
+"server. You can try to increase it in one of ways that are described in"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:805
+msgid "Documentation"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:811
+msgid "Backup of the configuration"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:812
+msgid ""
+"You can make a backup of the plugin configuration and restore this "
+"configuration later. Notice: Options of each menu item from the section "
+"\"Menu Structure\" is not imported."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:815
+msgid "Download backup file with current settings"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:815
+msgid ""
+"Upload backup file and restore settings. Choose file and click \"Save All "
+"Settings\"."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:818
+msgid "Reset Configuration"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid ""
+"If you need to reset configuration of this plugin then check this option and "
+"click \"Save Changes\"."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:819
+msgid ""
+"After this action all values of options located on this page will be reset "
+"to default values."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:823
+msgid "Reset Plugin Configuration"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:830
+msgid "Settings of the structure"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:835
+msgid ""
+"Here you can deactivate the options that you do not use to customize the "
+"menu structure. It helps reduce the number of options and reduce the load on "
+"the server."
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:840
+msgid "Description of the item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:844
+#: extensions/array_theme_options/array_theme_options.php:852
+#: extensions/array_theme_options/array_theme_options.php:861
+#: extensions/array_theme_options/array_theme_options.php:870
+#: extensions/array_theme_options/array_theme_options.php:878
+#: extensions/array_theme_options/array_theme_options.php:886
+#: extensions/array_theme_options/array_theme_options.php:894
+#: extensions/array_theme_options/array_theme_options.php:903
+#: extensions/array_theme_options/array_theme_options.php:911
+#: extensions/array_theme_options/array_theme_options.php:919
+#: extensions/array_theme_options/array_theme_options.php:927
+#: extensions/array_theme_options/array_theme_options.php:935
+msgid "Disable"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:848
+msgid "Style of the item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:857
+#: extensions/mega_main_menu/menu_options_array.php:68
+msgid "Visibility Control"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:866
+msgid "Icon of the item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:874
+msgid "Hide Text of the Item"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:882
+#: extensions/mega_main_menu/menu_options_array.php:89
+msgid "Disable Link"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:890
+#: extensions/mega_main_menu/menu_options_array.php:96
+msgid "Pull to the Other Side"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:899
+#: extensions/mega_main_menu/menu_options_array.php:101
+msgid "Submenu Type"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:907
+msgid "Side of dropdown elements"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:915
+msgid "Submenu Columns"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:923
+msgid "Enable Full Width Dropdown"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:931
+#: extensions/mega_main_menu/menu_options_array.php:148
+msgid "Dropdown Background Image"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:941
+msgid "Documentation & Support"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid "Online documentation"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid ""
+"If you need support, If you have a question or suggestion - Leave a message "
+"on our support page"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:949
+msgid "(in new window)"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:952
+#: extensions/array_theme_options/array_theme_options.php:953
+msgid "Purchase Code"
+msgstr ""
+
+#: extensions/array_theme_options/array_theme_options.php:953
+msgid ""
+"Enter here the purchase code of this product. This action unlocks the "
+"automatic updates for you. \"Where you can find your"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: extensions/mega_main_menu/backend_walker.php:150
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: extensions/mega_main_menu/backend_walker.php:154
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:167
+msgid "sub item"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:182
+msgid "Move up"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:195
+msgid "Move down"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:197
+#: extensions/mega_main_menu/backend_walker.php:199
+msgid "Edit Menu Item"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:208
+msgid "URL"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:215
+msgid "Navigation Label"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:221
+msgid "Title Attribute"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:228
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:233
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:239
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:280
+msgid "Move"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:281
+msgid "Up one"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:282
+msgid "Down one"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:285
+msgid "To the top"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:292
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:305
+msgid "Remove"
+msgstr ""
+
+#: extensions/mega_main_menu/backend_walker.php:306
+msgid "Cancel"
+msgstr ""
+
+#: extensions/mega_main_menu/handler.php:181
+msgid "Search"
+msgstr ""
+
+#: extensions/mega_main_menu/handler.php:435
+#: extensions/mega_main_menu/handler.php:439
+msgid "Log Out"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:16
+msgid "Default"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:25
+msgid "Standard Submenu"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:26
+msgid "Multicolumn Submenu"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:27
+msgid "Tabs Submenu"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:28
+msgid "Grid Submenu"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:29
+msgid "Posts Grid Submenu"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:32
+msgid "Posts Grid Submenu (Multisite)"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:38
+msgid "Widgets area"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:45
+msgid "Always Visible"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:46
+msgid "Visible Only for Logged Users"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:47
+msgid "Visible Only for Unlogged Visitors"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:51
+msgid "Visible Only for"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:55
+msgid "Description"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:61
+msgid "Style of This Item"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:74
+msgid "Icon of This Item (set empty to hide)"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:82
+msgid "Hide Text of This Item"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:100
+msgid "Options of Dropdown"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:114
+msgid "Post Type for Display in Dropdown"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:126
+msgid "Side of Dropdown Area"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:129
+msgid "Drop To Right Side"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:130
+msgid "Drop To Left Side"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:131
+msgid "Drop To Center"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:135
+msgid "Submenu Columns (Not For Standard Drops)"
+msgstr ""
+
+#: extensions/mega_main_menu/menu_options_array.php:144
+msgid "Enable Full Width Dropdown (only for horizontal menu)"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:41
+msgid "Add a \"Mega Main Menu\" to your sidebar."
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:42
+msgid "Mega Main Sidebar Menu"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:75
+msgid "No menus have been created yet."
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:75
+msgid "Create some"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:80
+msgid "Title:"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:84
+msgid "Select Menu:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: extensions/widgets/register_sidebars.php:135
+msgid "Mega Main Menu"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:139
+msgid "MegaMain Extensions"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:142
+msgid "Select Layout (skin)"
+msgstr ""
+
+#: extensions/widgets/register_sidebars.php:143
+msgid "Select the animation style of the appearance for this element."
+msgstr ""
+
+#: extensions/z_pages_helper/icons_modal.php:32
+#: framework/options_generator.php:298
+msgid "Select Icon"
+msgstr ""
+
+#: extensions/z_pages_helper/icons_modal.php:37
+msgid "Search icon"
+msgstr ""
+
+#: extensions/z_pages_helper/icons_modal.php:38
+msgid "OK"
+msgstr ""
+
+#: framework/init.php:232
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/options_generator.php:219 framework/options_generator.php:547
+msgid "Select Image"
+msgstr ""
+
+#: framework/options_generator.php:258
+msgid "Add One More"
+msgstr ""
+
+#: framework/options_generator.php:298
+msgid "Show Icons"
+msgstr ""
+
+#: framework/options_generator.php:449
+msgid "Installed Google Fonts"
+msgstr ""
+
+#: framework/options_generator.php:453
+msgid "Safe Web Fonts (Recommended)"
+msgstr ""
+
+#: framework/options_generator.php:614
+msgid "Keep original"
+msgstr ""
+
+#: framework/options_generator.php:614
+msgid "Stretch to width"
+msgstr ""
+
+#: framework/options_generator.php:614
+msgid "Stretch to height"
+msgstr ""
+
+#: framework/options_generator.php:660
+msgid "Start"
+msgstr ""
+
+#: framework/options_generator.php:698
+msgid "End"
+msgstr ""
+
+#: framework/options_generator.php:719
+msgid "Radial"
+msgstr ""
+
+#: framework/options_generator.php:735
+msgid "Click Here to View Result"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://menu.megamain.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Multifunctional and responsive menu. Features: icons, dropdowns, sticky "
+"menu, custom styles, images, google fonts. All in one... To unlock "
+"\"Automatic updates\" - enter your purchase code on the \"Plugin "
+"Configuration Page\"."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MegaMain.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://megamain.com"
+msgstr ""

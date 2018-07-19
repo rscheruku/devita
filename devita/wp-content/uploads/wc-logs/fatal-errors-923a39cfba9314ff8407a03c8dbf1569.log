@@ -1,0 +1,45 @@
+2018-04-10T03:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function excerpt_length() in E:\xampp708\htdocs\wp\devita\wp-content\themes\devita\woocommerce\content-product.php:135
+Stack trace:
+#0 E:\xampp708\htdocs\wp\devita\wp-includes\template.php(690): require()
+#1 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce\includes\wc-core-functions.php(180): load_template('E:\\xampp708\\htd...', false)
+#2 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(586): wc_get_template_part('content', 'product')
+#3 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(244): WC_Shortcode_Products->get_content()
+#5 E:\xampp708\htdocs\wp\devita\wp-includes\shortcodes.php(319): WC_Shortcodes::recent_products(Array, '', 'recent_products')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 E
+
+2018-04-12T02:40:32+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\class-wc-gateway-ppec-checkout-handler.php:704
+Stack trace:
+#0 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\abstracts\abstract-wc-gateway-ppec.php(63): WC_Gateway_PPEC_Checkout_Handler->is_started_from_checkout_page()
+#1 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\class-wc-gateway-ppec-with-paypal.php(12): WC_Gateway_PPEC->__construct()
+#2 E:\xampp708\htdocs\wp\devita\wp-content\plugins\woocommerce-multilingual\inc\class-wcml-wc-gateways.php(42): WC_Gateway_PPEC_With_PayPal->__construct()
+#3 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(286): WCML_WC_Gateways->loaded_woocommerce_payment_gateways(Array)
+#4 E:\xampp708\htdocs\wp\devita\wp-includes\plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#5 E:\xampp708\htdocs\wp\devit
+
+2018-04-24T08:02:27+00:00 CRITICAL Uncaught Error: Call to undefined method Devita_Class::furnilife_get_font_url() in E:\xampp708\htdocs\wp\devita\wp-content\themes\devita\functions.php:567
+Stack trace:
+#0 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(286): Devita_Class->devita_scripts_styles('')
+#1 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 E:\xampp708\htdocs\wp\devita\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 E:\xampp708\htdocs\wp\devita\wp-includes\script-loader.php(1436): do_action('wp_enqueue_scri...')
+#4 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 E:\xampp708\htdocs\wp\devita\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 E:\xampp708\htdocs\wp\devita\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 E:\xampp708\htdocs\wp\devita\wp-content\themes\devita\header.php(19): wp_head(
+
+2018-04-26T03:56:20+00:00 CRITICAL Uncaught Error: Call to a member function exists() on null in E:\xampp708\htdocs\wp\devita\wp-content\themes\devita\functions.php:798
+Stack trace:
+#0 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(286): Devita_Class->devita_scripts_styles('')
+#1 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 E:\xampp708\htdocs\wp\devita\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 E:\xampp708\htdocs\wp\devita\wp-includes\script-loader.php(1436): do_action('wp_enqueue_scri...')
+#4 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 E:\xampp708\htdocs\wp\devita\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 E:\xampp708\htdocs\wp\devita\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 E:\xampp708\htdocs\wp\devita\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 E:\xampp708\htdocs\wp\devita\wp-content\themes\devita\header.php(19): wp_head()
+#9 E:\xampp708\htdo
+

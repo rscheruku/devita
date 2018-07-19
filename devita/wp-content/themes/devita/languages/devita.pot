@@ -1,0 +1,2365 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Devita 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-06-15 12:55+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../devita/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../devita/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, "
+"name changed or is temporarity unavailable."
+msgstr ""
+
+#: ../devita/404.php:22
+msgid "Back to home"
+msgstr ""
+
+#: ../devita/404.php:22
+msgid "Back to home page"
+msgstr ""
+
+#: ../devita/archive.php:62 ../devita/author.php:56 ../devita/category.php:56
+#: ../devita/functions.php:1035 ../devita/image.php:49 ../devita/index.php:67
+#: ../devita/search.php:52 ../devita/single.php:45 ../devita/tag.php:56
+#: ../devita/theme-config.php:1140
+msgid "Blog"
+msgstr ""
+
+#: ../devita/author.php:81
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../devita/author.php:110
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../devita/category.php:73
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:327 ../devita/functions.php:1447
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:328 ../devita/functions.php:1448
+msgid "Install Plugins"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:330 ../devita/functions.php:1449
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:333 ../devita/functions.php:1450
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:385 ../devita/functions.php:1461
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:386
+#: ../devita/class-tgm-plugin-activation.php:827
+#: ../devita/class-tgm-plugin-activation.php:2533
+#: ../devita/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:387
+#: ../devita/class-tgm-plugin-activation.php:3159 ../devita/functions.php:1462
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:388
+#: ../devita/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:934
+#: ../devita/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2554
+#: ../devita/woocommerce/myaccount/my-orders.php:42
+#: ../devita/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3509
+#: ../devita/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3509
+#: ../devita/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../devita/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../devita/comments.php:31 ../devita/functions.php:1246
+msgid "1 comment"
+msgstr ""
+
+#: ../devita/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../devita/content-audio.php:62 ../devita/content-gallery.php:61
+#: ../devita/content-image.php:65 ../devita/content-video.php:63
+#: ../devita/content.php:64
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../devita/content-audio.php:63 ../devita/content-gallery.php:62
+#: ../devita/content-image.php:66 ../devita/content-page.php:20
+#: ../devita/content-video.php:64 ../devita/content.php:65
+#: ../devita/image.php:122
+msgid "Pages:"
+msgstr ""
+
+#: ../devita/content-audio.php:69 ../devita/content-gallery.php:67
+#: ../devita/content-image.php:71 ../devita/content-video.php:69
+#: ../devita/content.php:70
+msgid "Read more"
+msgstr ""
+
+#: ../devita/content-audio.php:76 ../devita/content-gallery.php:74
+#: ../devita/content-image.php:78 ../devita/content-image.php:92
+#: ../devita/content-video.php:76 ../devita/content.php:77
+#: ../devita/content.php:90
+msgid "Posts by"
+msgstr ""
+
+#: ../devita/content-audio.php:103 ../devita/content-gallery.php:101
+#: ../devita/content-image.php:115 ../devita/content-video.php:103
+#: ../devita/content.php:113
+msgid "About the Author:"
+msgstr ""
+
+#: ../devita/content-audio.php:116 ../devita/content-gallery.php:114
+#: ../devita/content-image.php:128 ../devita/content-video.php:116
+#: ../devita/content.php:126
+msgid "Related posts"
+msgstr ""
+
+#: ../devita/content-none.php:13 ../devita/index.php:112
+#: ../devita/search.php:83
+msgid "Nothing Found"
+msgstr ""
+
+#: ../devita/content-none.php:17 ../devita/index.php:116
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../devita/footer.php:42
+msgid "Copyright"
+msgstr ""
+
+#: ../devita/footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../devita/functions.php:221 ../devita/functions.php:790
+#: ../devita/functions.php:796 ../devita/functions.php:800
+msgid "Search..."
+msgstr ""
+
+#: ../devita/functions.php:227 ../devita/functions.php:246
+msgid "search"
+msgstr ""
+
+#: ../devita/functions.php:240 ../devita/functions.php:774
+#: ../devita/functions.php:780 ../devita/functions.php:784
+msgid "Search product..."
+msgstr ""
+
+#: ../devita/functions.php:397
+msgid "Primary Menu"
+msgstr ""
+
+#: ../devita/functions.php:398
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../devita/functions.php:399
+msgid "Top Menu"
+msgstr ""
+
+#: ../devita/functions.php:400 ../devita/include/map_shortcodes.php:135
+msgid "Categories Menu"
+msgstr ""
+
+#: ../devita/functions.php:879
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../devita/functions.php:881
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../devita/functions.php:889
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../devita/functions.php:891
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../devita/functions.php:899
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../devita/functions.php:901
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../devita/functions.php:979 ../devita/functions.php:1029
+msgid "Home"
+msgstr ""
+
+#: ../devita/functions.php:1015 ../devita/functions.php:1016
+#: ../devita/functions.php:1017
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../devita/functions.php:1016
+msgid "F Y"
+msgstr ""
+
+#: ../devita/functions.php:1017
+msgid "Y"
+msgstr ""
+
+#: ../devita/functions.php:1018
+msgid "Archive for"
+msgstr ""
+
+#: ../devita/functions.php:1019
+msgid "Blog Archives"
+msgstr ""
+
+#: ../devita/functions.php:1020
+msgid "Search Results"
+msgstr ""
+
+#: ../devita/functions.php:1104
+msgid "on"
+msgstr ""
+
+#: ../devita/functions.php:1135 ../devita/single.php:79
+msgid "Post navigation"
+msgstr ""
+
+#: ../devita/functions.php:1136
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../devita/functions.php:1137
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../devita/functions.php:1154
+msgid "Previous"
+msgstr ""
+
+#: ../devita/functions.php:1155
+msgid "Next"
+msgstr ""
+
+#: ../devita/functions.php:1179
+msgid "Pingback:"
+msgstr ""
+
+#: ../devita/functions.php:1179
+msgid "(Edit)"
+msgstr ""
+
+#: ../devita/functions.php:1198
+msgid "Post author"
+msgstr ""
+
+#: ../devita/functions.php:1203
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../devita/functions.php:1207
+msgid "Reply"
+msgstr ""
+
+#: ../devita/functions.php:1211
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../devita/functions.php:1216 ../devita/image.php:149
+msgid "Edit"
+msgstr ""
+
+#: ../devita/functions.php:1242
+msgid "0 comments"
+msgstr ""
+
+#: ../devita/functions.php:1244 ../devita/functions.php:1295
+#: ../devita/include/shortcodes.php:346
+msgid " comments"
+msgstr ""
+
+#: ../devita/functions.php:1253 ../devita/functions.php:1257
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../devita/functions.php:1255
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../devita/functions.php:1259 ../devita/functions.php:1302
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../devita/functions.php:1271
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../devita/functions.php:1275
+#, php-format
+msgid "Posted by %1$s  %2$s"
+msgstr ""
+
+#: ../devita/functions.php:1293 ../devita/include/shortcodes.php:344
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../devita/functions.php:1297 ../devita/include/shortcodes.php:348
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../devita/functions.php:1313
+msgid "Plazathemes Helper"
+msgstr ""
+
+#: ../devita/functions.php:1323
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../devita/functions.php:1330
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../devita/functions.php:1344
+msgid "Visual Composer"
+msgstr ""
+
+#: ../devita/functions.php:1351
+msgid "Templatera"
+msgstr ""
+
+#: ../devita/functions.php:1358
+msgid "Essential Grid"
+msgstr ""
+
+#: ../devita/functions.php:1367
+msgid "Redux Framework"
+msgstr ""
+
+#: ../devita/functions.php:1374
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../devita/functions.php:1380
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../devita/functions.php:1385
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../devita/functions.php:1390
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../devita/functions.php:1395 ../devita/include/map_shortcodes.php:335
+#: ../devita/theme-config.php:1214
+msgid "Testimonials"
+msgstr ""
+
+#: ../devita/functions.php:1400
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../devita/functions.php:1405
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../devita/functions.php:1410
+msgid "WooCommerce"
+msgstr ""
+
+#: ../devita/functions.php:1415
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../devita/functions.php:1420
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../devita/functions.php:1425
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../devita/functions.php:1463
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../devita/header.php:89
+msgid "menu"
+msgstr ""
+
+#: ../devita/image.php:138
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../devita/image.php:159
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../devita/image.php:160
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:8
+msgid "Devita Widgets"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:128
+msgid "says"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:169
+#: ../devita/include/vertical_menu_widgets.php:88
+msgid "Title:"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:173
+msgid "Amount:"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:177
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:181
+msgid "Widget Type:"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:183
+msgid "Recent Posts"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:184
+msgid "Popular Posts"
+msgstr ""
+
+#: ../devita/include/devitawidgets.php:185
+msgid "Recent Comments"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:7
+msgid "Yes"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:8
+msgid "No"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:13
+msgid "Fade"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:14
+msgid "Slide"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:20
+msgid "Enable slider"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:24
+#: ../devita/include/map_shortcodes.php:30
+#: ../devita/include/map_shortcodes.php:37
+#: ../devita/include/map_shortcodes.php:44
+#: ../devita/include/map_shortcodes.php:51
+#: ../devita/include/map_shortcodes.php:58
+#: ../devita/include/map_shortcodes.php:67
+#: ../devita/include/map_shortcodes.php:75
+#: ../devita/include/map_shortcodes.php:83
+#: ../devita/include/map_shortcodes.php:90
+#: ../devita/include/map_shortcodes.php:97
+#: ../devita/include/map_shortcodes.php:105
+msgid "Slider Options"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:28
+msgid "Items Default"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:35
+msgid "Item Desktop"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:42
+msgid "Item Small"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:49
+msgid "Item Tablet"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:56
+msgid "Item Mobile"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:63
+msgid "Navigation"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:71
+msgid "Pagination"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:79
+msgid "Speed sider"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:87
+msgid "Slider Auto"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:94
+msgid "Slider loop"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:101
+msgid "Effects"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:117
+msgid "Main Menu"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:120
+#: ../devita/include/map_shortcodes.php:138
+#: ../devita/include/map_shortcodes.php:149
+#: ../devita/include/map_shortcodes.php:159
+#: ../devita/include/map_shortcodes.php:169
+#: ../devita/include/map_shortcodes.php:203
+#: ../devita/include/map_shortcodes.php:230
+#: ../devita/include/map_shortcodes.php:249
+#: ../devita/include/map_shortcodes.php:290
+#: ../devita/include/map_shortcodes.php:338
+#: ../devita/include/map_shortcodes.php:408
+#: ../devita/include/map_shortcodes.php:426
+#: ../devita/include/map_shortcodes.php:460
+#: ../devita/include/map_shortcodes.php:728
+msgid "Theme"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:126
+msgid "Upload sticky logo image"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:146
+msgid "Mini Cart"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:156
+msgid "Product Search"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:166 ../devita/theme-config.php:891
+msgid "Brand Logos"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:176
+#: ../devita/include/map_shortcodes.php:313
+msgid "Number of columns"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:178
+msgid "6"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:184
+#: ../devita/include/map_shortcodes.php:321
+msgid "Number of rows"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:200
+msgid "Popular Categories"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:209
+msgid "Category slug"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:217
+msgid "Thumbnail URL"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:227
+msgid "Newsletter Form (MailPoet)"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:236
+msgid "Form ID"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:239
+msgid "Enter form ID here"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:246
+msgid "Time Sale"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:255
+msgid "Date Sale"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:256
+msgid "Date Sale M-D-Y. example: 06-16-2030"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:262
+msgid "The image"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:265
+msgid "Enter description."
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:271
+msgid "Short description"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:278
+msgid "URL"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:279
+msgid "Link go to sale page"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:287
+msgid "Latest posts"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:296
+msgid "Number of posts"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:298
+msgid "5"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:305
+msgid "Excerpt length"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:307
+msgid "20"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:315
+msgid "4"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:344
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:346
+msgid "10"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:352
+msgid "Display Author"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:363
+msgid "Display Avatar"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:374
+msgid "Avatar image size"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:377
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:383
+msgid "Display URL"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:394 ../devita/include/shortcodes.php:55
+#: ../devita/include/vertical_menu_widgets.php:53
+msgid "Category"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:396
+msgid "0"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:397
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:405
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:414
+msgid "Twitter user name"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:423
+msgid "Twitter feed"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:432
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:440
+msgid "Number Of Tweets"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:457
+msgid "Google map"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:466
+msgid "Map Height"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:468
+msgid "400"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:469
+msgid "Map height in pixels. Default is 400"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:475
+msgid "Map Zoom"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:477
+msgid "17"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:478
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:484
+#: ../devita/include/map_shortcodes.php:532
+#: ../devita/include/map_shortcodes.php:580
+#: ../devita/include/map_shortcodes.php:628
+#: ../devita/include/map_shortcodes.php:676
+msgid "Latitude"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:493
+#: ../devita/include/map_shortcodes.php:541
+#: ../devita/include/map_shortcodes.php:589
+#: ../devita/include/map_shortcodes.php:637
+#: ../devita/include/map_shortcodes.php:685
+msgid "Longtitude"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:502
+#: ../devita/include/map_shortcodes.php:550
+#: ../devita/include/map_shortcodes.php:598
+#: ../devita/include/map_shortcodes.php:646
+#: ../devita/include/map_shortcodes.php:694
+msgid "Address"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:505
+#: ../devita/include/map_shortcodes.php:553
+#: ../devita/include/map_shortcodes.php:601
+#: ../devita/include/map_shortcodes.php:649
+#: ../devita/include/map_shortcodes.php:697
+msgid "If you donot enter coordinate, enter address here"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:512
+#: ../devita/include/map_shortcodes.php:560
+#: ../devita/include/map_shortcodes.php:608
+#: ../devita/include/map_shortcodes.php:656
+#: ../devita/include/map_shortcodes.php:704
+msgid "Marker image"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:515
+msgid "Upload marker image, image size: 40x46 px"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:522
+#: ../devita/include/map_shortcodes.php:570
+#: ../devita/include/map_shortcodes.php:618
+#: ../devita/include/map_shortcodes.php:666
+#: ../devita/include/map_shortcodes.php:714 ../devita/theme-config.php:902
+msgid "Description"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:525
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:563
+#: ../devita/include/map_shortcodes.php:611
+#: ../devita/include/map_shortcodes.php:659
+#: ../devita/include/map_shortcodes.php:707
+msgid "Upload marker image"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:573
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:621
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:669
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:717
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:725
+msgid "Counter"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:734
+msgid "Image icon"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:737
+msgid "Upload icon image"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:743
+msgid "Number"
+msgstr ""
+
+#: ../devita/include/map_shortcodes.php:751
+msgid "Text"
+msgstr ""
+
+#: ../devita/include/shortcodes.php:59
+#: ../devita/include/vertical_menu_widgets.php:57
+msgid "More Categories"
+msgstr ""
+
+#: ../devita/include/shortcodes.php:60
+#: ../devita/include/vertical_menu_widgets.php:58
+msgid "Close Menu"
+msgstr ""
+
+#: ../devita/include/shortcodes.php:101
+msgid "Categories"
+msgstr ""
+
+#: ../devita/include/shortcodes.php:255
+msgid "shopping now"
+msgstr ""
+
+#: ../devita/include/vertical_menu_widgets.php:8
+msgid "Vertial Menu Widgets"
+msgstr ""
+
+#: ../devita/include/vertical_menu_widgets.php:11
+msgid "Display vertical menu"
+msgstr ""
+
+#: ../devita/include/wooajax.php:114
+#: ../devita/woocommerce/cart/mini-cart.php:32
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../devita/include/wooajax.php:132
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../devita/include/wooajax.php:153
+#: ../devita/woocommerce/cart/mini-cart.php:87
+msgid "View Cart"
+msgstr ""
+
+#: ../devita/index.php:101
+msgid "No posts to display"
+msgstr ""
+
+#: ../devita/index.php:105
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../devita/projects/archive-project.php:25
+#: ../devita/projects/content-single-project.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: ../devita/projects/archive-project.php:81
+msgid "All"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:216
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:222
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:351
+#: ../devita/road_importdata/importer.php:399
+#: ../devita/road_importdata/importer.php:403
+#: ../devita/road_importdata/importer.php:412
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:404
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:420
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:470
+msgid "Assign Authors"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:471
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:473
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:483
+msgid "Import Attachments"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:486
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:490
+msgid "Submit"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:503
+msgid "Import author:"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:514
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:517
+msgid "as a new user:"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:525
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:527
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:528
+msgid "- Select -"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:578
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1080
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1161
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1187
+msgid "Invalid file type"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1234
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1240
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1247
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1252
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1258
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1358
+msgid "Import WordPress"
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1365
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1380
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../devita/road_importdata/importer.php:1381
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../devita/road_importdata/parsers.php:42
+#: ../devita/road_importdata/parsers.php:78
+#: ../devita/road_importdata/parsers.php:87
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../devita/road_importdata/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../devita/road_importdata/parsers.php:91
+#: ../devita/road_importdata/parsers.php:96
+#: ../devita/road_importdata/parsers.php:291
+#: ../devita/road_importdata/parsers.php:476
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../devita/search.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../devita/search.php:87
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../devita/single.php:80
+msgid "&larr;"
+msgstr ""
+
+#: ../devita/single.php:81
+msgid "&rarr;"
+msgstr ""
+
+#: ../devita/tag.php:73
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../devita/theme-config.php:96
+msgid "Section via hook"
+msgstr ""
+
+#: ../devita/theme-config.php:97
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../devita/theme-config.php:149
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../devita/theme-config.php:156 ../devita/theme-config.php:159
+msgid "Current theme preview"
+msgstr ""
+
+#: ../devita/theme-config.php:166
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../devita/theme-config.php:167
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../devita/theme-config.php:168
+msgid "Tags"
+msgstr ""
+
+#: ../devita/theme-config.php:173
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../devita/theme-config.php:173
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../devita/theme-config.php:189
+msgid "General"
+msgstr ""
+
+#: ../devita/theme-config.php:190
+msgid "General theme options"
+msgstr ""
+
+#: ../devita/theme-config.php:197
+msgid "Body background"
+msgstr ""
+
+#: ../devita/theme-config.php:198
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../devita/theme-config.php:205
+msgid "Wrapper background"
+msgstr ""
+
+#: ../devita/theme-config.php:206
+msgid "Upload image or select color. Background of page wrapper"
+msgstr ""
+
+#: ../devita/theme-config.php:213
+msgid "Page content background"
+msgstr ""
+
+#: ../devita/theme-config.php:214
+msgid "Select background for page content (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:220
+msgid "Menu sidebar"
+msgstr ""
+
+#: ../devita/theme-config.php:222 ../devita/theme-config.php:360
+#: ../devita/theme-config.php:659
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../devita/theme-config.php:235
+msgid "Border Option"
+msgstr ""
+
+#: ../devita/theme-config.php:236
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../devita/theme-config.php:242
+msgid "Back To Top"
+msgstr ""
+
+#: ../devita/theme-config.php:243
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../devita/theme-config.php:250
+msgid "Colors"
+msgstr ""
+
+#: ../devita/theme-config.php:251
+msgid "Color options"
+msgstr ""
+
+#: ../devita/theme-config.php:257
+msgid "Primary Color"
+msgstr ""
+
+#: ../devita/theme-config.php:258
+msgid "Pick a color for primary color (default: #0363cd)."
+msgstr ""
+
+#: ../devita/theme-config.php:268
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../devita/theme-config.php:269
+msgid "Pick a color for bg sale label (default: #0363cd)."
+msgstr ""
+
+#: ../devita/theme-config.php:279
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../devita/theme-config.php:280
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:290
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../devita/theme-config.php:291
+msgid "Pick a color for star of rating (default: #e9b528)."
+msgstr ""
+
+#: ../devita/theme-config.php:300
+msgid "Link Color"
+msgstr ""
+
+#: ../devita/theme-config.php:301
+msgid "Pick a color for link (default: #0363cd)."
+msgstr ""
+
+#: ../devita/theme-config.php:312
+msgid "Text selected background"
+msgstr ""
+
+#: ../devita/theme-config.php:313
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../devita/theme-config.php:321
+msgid "Text selected color"
+msgstr ""
+
+#: ../devita/theme-config.php:322
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:350
+msgid "Header"
+msgstr ""
+
+#: ../devita/theme-config.php:351
+msgid "Header options"
+msgstr ""
+
+#: ../devita/theme-config.php:358
+msgid "Header Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:369
+msgid "Header background"
+msgstr ""
+
+#: ../devita/theme-config.php:370 ../devita/theme-config.php:669
+#: ../devita/theme-config.php:1248
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../devita/theme-config.php:377
+msgid "Header text color"
+msgstr ""
+
+#: ../devita/theme-config.php:378 ../devita/theme-config.php:464
+msgid "Pick a color for top bar text color (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:386
+msgid "Header link color"
+msgstr ""
+
+#: ../devita/theme-config.php:387
+msgid "Pick a color for header link color (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:398
+msgid "Header border color"
+msgstr ""
+
+#: ../devita/theme-config.php:413
+msgid "Sticky header"
+msgstr ""
+
+#: ../devita/theme-config.php:419
+msgid "Use sticky header"
+msgstr ""
+
+#: ../devita/theme-config.php:425
+msgid "Header sticky background"
+msgstr ""
+
+#: ../devita/theme-config.php:455
+msgid "Top Bar"
+msgstr ""
+
+#: ../devita/theme-config.php:463
+msgid "Top bar text color"
+msgstr ""
+
+#: ../devita/theme-config.php:473
+msgid "Top bar link color"
+msgstr ""
+
+#: ../devita/theme-config.php:474
+msgid "Pick a color for top bar link color (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:487
+msgid "Menu"
+msgstr ""
+
+#: ../devita/theme-config.php:493
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../devita/theme-config.php:494
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../devita/theme-config.php:501
+msgid "Submenu background"
+msgstr ""
+
+#: ../devita/theme-config.php:502
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:511
+msgid "Submenu color"
+msgstr ""
+
+#: ../devita/theme-config.php:512
+msgid "Pick a color for sub menu color (default: #7a7a7a)."
+msgstr ""
+
+#: ../devita/theme-config.php:521
+msgid "Vertical Menu"
+msgstr ""
+
+#: ../devita/theme-config.php:528
+msgid "Category menu background"
+msgstr ""
+
+#: ../devita/theme-config.php:529
+msgid "Pick a color for category menu background (default: #ffffff)."
+msgstr ""
+
+#: ../devita/theme-config.php:537
+msgid "Category menu label"
+msgstr ""
+
+#: ../devita/theme-config.php:538
+msgid "The label for category menu"
+msgstr ""
+
+#: ../devita/theme-config.php:544
+msgid "Number of items"
+msgstr ""
+
+#: ../devita/theme-config.php:545
+msgid "Number of menu items level 1 to show, default value: 8"
+msgstr ""
+
+#: ../devita/theme-config.php:555
+msgid "More items label"
+msgstr ""
+
+#: ../devita/theme-config.php:556
+msgid "The label for more items button"
+msgstr ""
+
+#: ../devita/theme-config.php:562
+msgid "Less items label"
+msgstr ""
+
+#: ../devita/theme-config.php:563
+msgid "The label for less items button"
+msgstr ""
+
+#: ../devita/theme-config.php:569
+msgid "Home Category Menu"
+msgstr ""
+
+#: ../devita/theme-config.php:570
+msgid "Always show category menu on home page"
+msgstr ""
+
+#: ../devita/theme-config.php:576
+msgid "Inner Category Menu"
+msgstr ""
+
+#: ../devita/theme-config.php:577
+msgid "Always show category menu on inner pages"
+msgstr ""
+
+#: ../devita/theme-config.php:585 ../devita/theme-config.php:592
+msgid "Social Icons"
+msgstr ""
+
+#: ../devita/theme-config.php:593
+msgid "Enter social links"
+msgstr ""
+
+#: ../devita/theme-config.php:594
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../devita/theme-config.php:649
+msgid "Footer"
+msgstr ""
+
+#: ../devita/theme-config.php:650
+msgid "Footer options"
+msgstr ""
+
+#: ../devita/theme-config.php:657
+msgid "Footer Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:668
+msgid "Footer background"
+msgstr ""
+
+#: ../devita/theme-config.php:675
+msgid "Footer border color"
+msgstr ""
+
+#: ../devita/theme-config.php:687
+msgid "Footer text color"
+msgstr ""
+
+#: ../devita/theme-config.php:688
+msgid "Pick a color for top bar text color (default: #757575)."
+msgstr ""
+
+#: ../devita/theme-config.php:697
+msgid "Footer link color"
+msgstr ""
+
+#: ../devita/theme-config.php:698
+msgid "Pick a color for footer link color (default: #757575)."
+msgstr ""
+
+#: ../devita/theme-config.php:711
+msgid "Fonts"
+msgstr ""
+
+#: ../devita/theme-config.php:712
+msgid "Fonts options"
+msgstr ""
+
+#: ../devita/theme-config.php:719
+msgid "Body font"
+msgstr ""
+
+#: ../devita/theme-config.php:736
+msgid "Main body font."
+msgstr ""
+
+#: ../devita/theme-config.php:749
+msgid "Heading font"
+msgstr ""
+
+#: ../devita/theme-config.php:766
+msgid "Heading font."
+msgstr ""
+
+#: ../devita/theme-config.php:777
+msgid "Menu font"
+msgstr ""
+
+#: ../devita/theme-config.php:794
+msgid "Menu font."
+msgstr ""
+
+#: ../devita/theme-config.php:806
+msgid "Price font"
+msgstr ""
+
+#: ../devita/theme-config.php:823
+msgid "Price font."
+msgstr ""
+
+#: ../devita/theme-config.php:837
+msgid "Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:838
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../devita/theme-config.php:845
+msgid "Page Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:855
+msgid "Box layout width"
+msgstr ""
+
+#: ../devita/theme-config.php:856
+msgid "Box layout width in pixels, default value: 1290"
+msgstr ""
+
+#: ../devita/theme-config.php:866
+msgid "Preset"
+msgstr ""
+
+#: ../devita/theme-config.php:867
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../devita/theme-config.php:882
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../devita/theme-config.php:883
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../devita/theme-config.php:892
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../devita/theme-config.php:898
+msgid "Logos"
+msgstr ""
+
+#: ../devita/theme-config.php:899
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../devita/theme-config.php:901
+#: ../devita/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../devita/theme-config.php:903
+msgid "Link"
+msgstr ""
+
+#: ../devita/theme-config.php:913
+msgid "Sidebar"
+msgstr ""
+
+#: ../devita/theme-config.php:914
+msgid "Sidebar options"
+msgstr ""
+
+#: ../devita/theme-config.php:921
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../devita/theme-config.php:922
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../devita/theme-config.php:931
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../devita/theme-config.php:932
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../devita/theme-config.php:941
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../devita/theme-config.php:942
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../devita/theme-config.php:951
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../devita/theme-config.php:952
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../devita/theme-config.php:953
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../devita/theme-config.php:960 ../devita/woocommerce/cart/cart.php:35
+#: ../devita/woocommerce/cart/cart.php:68
+#: ../devita/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: ../devita/theme-config.php:961
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../devita/theme-config.php:967
+msgid "Shop Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:977
+msgid "Shop default view"
+msgstr ""
+
+#: ../devita/theme-config.php:987
+msgid "Products per page"
+msgstr ""
+
+#: ../devita/theme-config.php:988
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../devita/theme-config.php:998
+msgid "Product columns"
+msgstr ""
+
+#: ../devita/theme-config.php:999
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../devita/theme-config.php:1000 ../devita/theme-config.php:1012
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../devita/theme-config.php:1010
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../devita/theme-config.php:1011
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../devita/theme-config.php:1022
+msgid "Excerpt length on Short decription product"
+msgstr ""
+
+#: ../devita/theme-config.php:1032
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../devita/theme-config.php:1033
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+
+#: ../devita/theme-config.php:1039 ../devita/theme-config.php:1092
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../devita/theme-config.php:1045
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../devita/theme-config.php:1053
+msgid "background shop product"
+msgstr ""
+
+#: ../devita/theme-config.php:1059
+msgid "Background"
+msgstr ""
+
+#: ../devita/theme-config.php:1062
+msgid "Upload logo here."
+msgstr ""
+
+#: ../devita/theme-config.php:1070
+msgid "Product page"
+msgstr ""
+
+#: ../devita/theme-config.php:1076
+msgid "Related products title"
+msgstr ""
+
+#: ../devita/theme-config.php:1082
+msgid "Number of related products"
+msgstr ""
+
+#: ../devita/theme-config.php:1098
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../devita/theme-config.php:1099
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../devita/theme-config.php:1105
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../devita/theme-config.php:1106
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../devita/theme-config.php:1113 ../devita/theme-config.php:1132
+msgid "Quick View"
+msgstr ""
+
+#: ../devita/theme-config.php:1119
+msgid "View details text"
+msgstr ""
+
+#: ../devita/theme-config.php:1125
+msgid "View all features text"
+msgstr ""
+
+#: ../devita/theme-config.php:1126
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../devita/theme-config.php:1133
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../devita/theme-config.php:1141
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../devita/theme-config.php:1147
+msgid "Blog header text"
+msgstr ""
+
+#: ../devita/theme-config.php:1153
+msgid "Blog Layout"
+msgstr ""
+
+#: ../devita/theme-config.php:1165
+msgid "Width of thumbnail category "
+msgstr ""
+
+#: ../devita/theme-config.php:1171
+msgid "Height of thumbnail category "
+msgstr ""
+
+#: ../devita/theme-config.php:1177
+msgid "Read more text"
+msgstr ""
+
+#: ../devita/theme-config.php:1183
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../devita/theme-config.php:1194
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../devita/theme-config.php:1201
+msgid "Width of thumbnail "
+msgstr ""
+
+#: ../devita/theme-config.php:1207
+msgid "Height of thumbnail "
+msgstr ""
+
+#: ../devita/theme-config.php:1215
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../devita/theme-config.php:1221
+msgid "Auto scroll"
+msgstr ""
+
+#: ../devita/theme-config.php:1227
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../devita/theme-config.php:1228
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../devita/theme-config.php:1239
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../devita/theme-config.php:1240
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../devita/theme-config.php:1247
+msgid "Error 404 background"
+msgstr ""
+
+#: ../devita/theme-config.php:1256
+msgid "Less Compiler"
+msgstr ""
+
+#: ../devita/theme-config.php:1257
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../devita/theme-config.php:1263
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../devita/theme-config.php:1270
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../devita/theme-config.php:1271
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../devita/theme-config.php:1272
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../devita/theme-config.php:1276
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../devita/theme-config.php:1281
+msgid "Import / Export"
+msgstr ""
+
+#: ../devita/theme-config.php:1282
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../devita/theme-config.php:1297
+msgid "Theme Information"
+msgstr ""
+
+#: ../devita/theme-config.php:1313
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../devita/theme-config.php:1314 ../devita/theme-config.php:1320
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../devita/theme-config.php:1319
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../devita/theme-config.php:1324
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../devita/theme-config.php:1344 ../devita/theme-config.php:1345
+msgid "Theme Options"
+msgstr ""
+
+#: ../devita/woocommerce/archive-product.php:137
+msgid "View on"
+msgstr ""
+
+#: ../devita/woocommerce/archive-product.php:138
+msgid "Grid"
+msgstr ""
+
+#: ../devita/woocommerce/archive-product.php:139
+msgid "List"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:36
+#: ../devita/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:37
+#: ../devita/woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:38
+#: ../devita/woocommerce/cart/cart.php:109
+#: ../devita/woocommerce/checkout/review-order.php:18
+#: ../devita/woocommerce/myaccount/my-orders.php:43
+#: ../devita/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:121
+#: ../devita/woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:156
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:157
+msgid "Coupon code"
+msgstr ""
+
+#: ../devita/woocommerce/cart/cart.php:157
+msgid "Apply coupon"
+msgstr ""
+
+#: ../devita/woocommerce/cart/mini-cart.php:30
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../devita/woocommerce/cart/mini-cart.php:74
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../devita/woocommerce/cart/mini-cart.php:75
+#: ../devita/woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: ../devita/woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: ../devita/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../devita/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../devita/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: ../devita/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: ../devita/woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: ../devita/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../devita/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../devita/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../devita/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../devita/woocommerce/class-wc-widget-cart.php:29
+#: ../devita/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../devita/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:41
+#: ../devita/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../devita/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
